@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PeddyPaper</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Jogar">Jogar</string>
+    <string name="bem_vindo_ao_peddypapper">Bem vindo ao PeddyPaper</string>
+    <string name="regras">Como Jogar ?</string>
+    <string name="regras_1">1 - Para responder a uma questão, o utilizador deve estar a menos de 50 metros do ponto de interesse.</string>
+    <string name="regras_2">2 - Quando estiver a uma distância inferior a 50 metros do ponto de interesse, o utilizador irá receber uma notificação.</string>
+    <string name="regras_3">3 - Quando tiver no local da questão, o utilizador deve clicar continuamente em cima do marcador, até aparecer a questão.</string>
+    <string name="regras_4">4 - O objetivo é chegar ao fim do percurso, o mais rápido possível, e com o maior número de pontos.</string>
+    <string name="regras_5">5 - Pode depois consultar a sua classificação na Tabela de Classificação e comparar com os utilizadores da aplicação.</string>
+    <string name="regras_6">6 - Boa Sorte!</string>
+    <string name="instrucoes_1">O Peddy paper tem o propósito de dar a conhecer a cidade de Felgueiras.</string>
+    <string name="instrucoes_2">Ao longo do Peddy paper, você encontrará vários pontos de interesse e conhecerá a sua história.</string>
+    <string name="instrucoes_3">Antes de jogar, leia as regras do jogo.</string>
+</resources>

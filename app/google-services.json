@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843604504087",
+    "project_id": "cmu-peddypaper",
+    "storage_bucket": "cmu-peddypaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843604504087:android:c6a21fcf25aad047a23652",
+        "android_client_info": {
+          "package_name": "pt.ipp.estg.peddypaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDttd2EP8YjC1EEe-rwy-Zc7eT8Vh4n_VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

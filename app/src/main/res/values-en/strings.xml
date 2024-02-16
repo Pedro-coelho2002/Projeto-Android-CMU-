@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PeddyPaper</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="Cancelar">Cancel</string>
+    <string name="Jogar">Play</string>
+    <string name="bem_vindo_ao_peddypapper">Welcome to PeddyPaper</string>
+    <string name="regras">How to Play ?</string>
+    <string name="regras_1">1 - To answer a question, the user must be less than 50 meters from the point of interest.</string>
+    <string name="regras_2">2 - When you are less than 50 meters from the point of interest, the user will receive a notification.</string>
+    <string name="regras_3">3 - When arriving at the location of the question, the user must continuously click on the marker until the question appears.</string>
+    <string name="regras_4">4 - The objective is to complete the route as quickly as possible and obtain the highest number of points.</string>
+    <string name="regras_5">5 - After the game, check your ranking on the Leaderboard and compare it with other users of the application.</string>
+    <string name="regras_6">6 - Good Luck!</string>
+    <string name="instrucoes_1">The Peddy paper aims to make the city of Felgueiras known.</string>
+    <string name="instrucoes_2">Throughout the Peddy paper, you will find several points of interest and learn about its history.</string>
+    <string name="instrucoes_3">Before playing, read the game rules.</string>
+</resources>
